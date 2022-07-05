@@ -1,4 +1,4 @@
-# My Awesome Project
+# Full-Stack Web Appliation MERN Stack
 This project is for creating a full-stack web application to be consumed by the public.
 This web application allows you to use several API's together to gather local information for restaurants, parks, and weather forecast.
 This application was designed easily having accessible information across many fields with one input.
